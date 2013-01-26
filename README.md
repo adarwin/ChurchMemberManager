@@ -1,6 +1,9 @@
 ChurchMemberManager
 ===================
 
+Author: Andrew P. Darwin
+apdmin@gmail.com
+
 Introduction
 ------------
 
@@ -28,6 +31,11 @@ To run the application, you can simply double click on the "ChurchMemberManager.
 prefer to run it from the command line, you can navigate to the location of the jar file and then
 type.
 	java -jar ChurchMemberManager.jar
+
+
+Some New Section I'll Delete Later
+----------------------------------
+Random Section
 
 
 Troubleshooting
